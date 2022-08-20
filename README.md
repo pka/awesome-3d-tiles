@@ -48,6 +48,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 ## glTF tools
 
 * [glTF-Transform](https://gltf-transform.donmccurdy.com/cli.html) - glTF-Transform supports reading, editing, and writing 3D models in glTF 2.0 format.
+* [Blender exporter](https://docs.blender.org/manual/en/latest/addons/import_export/scene_gltf2.html#extensions) - Blender glTF 2.0 Exporter.
 
 ## Terrain
 
