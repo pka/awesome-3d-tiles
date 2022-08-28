@@ -13,7 +13,6 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 ## Viewers
 
 * [CesiumJS](https://github.com/CesiumGS/cesium) - JavaScript library for creating 3D globes and 2D maps in a web browser.
-* [iTowns](https://github.com/iTowns/itowns) - Three.js based JS/WebGL framework.
 * [mapbox-3dtiles](https://github.com/Geodan/mapbox-3dtiles) - Mapbox GL JS custom layer for 3D Tiles.
 * [3DCityDB-Web-Map-Client](https://github.com/3dcitydb/3dcitydb-web-map) - Cesium based Viewer for CityGML und 3D Tiles.
 * [3d-tiles-renderer](https://github.com/NASA-AMMOS/3DTilesRendererJS) - Three.js based renderer for 3D Tiles.
@@ -22,6 +21,8 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [A-Frame component](https://github.com/nytimes/aframe-loader-3dtiles-component) - [A-Frame](https://aframe.io/) component using 3D-Tiles.
 * [loaders.gl](https://loaders.gl/docs/specifications/category-3d-tiles) - Parsers and encoders for many major 3D, geospatial and tabular formats.
 * [deck.gl](https://deck.gl/docs/api-reference/geo-layers/tile-3d-layer) - WebGL-powered framework for visual exploratory data analysis of large datasets.
+* [iTowns](https://github.com/iTowns/itowns) - Three.js based JS/WebGL framework.
+* [giro3d](https://gitlab.com/giro3d/giro3d) - Three.js based JS/WebGL framework (successor of iTown).
 
 ## Game engine and 3D modeling tool integrations (Open source)
 
@@ -43,6 +44,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Obj2Tiles](https://github.com/OpenDroneMap/Obj2Tiles) - Converts OBJ files to OGC 3D tiles.
 * [3dtiles](https://github.com/fanvanzh/3dtiles) - Tools for 3D-Tiles conversion.
 * [gltf-to-3d-tiles](https://github.com/dreamergz/gltf-to-3d-tiles) - glTF to 3d Tiles Converter.
+* [vts23dtiles](https://github.com/melowntech/vts-tools) - Convert VTS tileset into 3D Tileset.
 * [Cesium Point Cloud Generator](https://github.com/tum-gis/cesium-point-cloud-generator) - XYZ → 3D Point Cloud Tiles.
 
 ## glTF tools
