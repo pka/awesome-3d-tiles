@@ -40,6 +40,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 * [3D City Database](https://www.3dcitydb.org/) - Geo database to store, represent, and manage virtual 3D city models.
 * [py3dtiles](https://gitlab.com/Oslandia/py3dtiles) - LAS / XYZ → 3D Point Cloud Tiles, b3dm API.
+* [Python 3DTiles Tilers](https://github.com/VCityTeam/py3dtilers) - Python tool and library allowing to build 3D Tiles tilesets out of various geometrical formats e.g. OBJ, GeoJSON, IFC or CityGML through 3dCityDB databases.
 * [pg2b3dm](https://github.com/Geodan/pg2b3dm) - Conversion of PostGIS 3D geometries to b3dm tiles.
 * [Obj2Tiles](https://github.com/OpenDroneMap/Obj2Tiles) - Converts OBJ files to OGC 3D tiles.
 * [3dtiles](https://github.com/fanvanzh/3dtiles) - Tools for 3D-Tiles conversion.
