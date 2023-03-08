@@ -6,9 +6,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 [3D Tiles](https://github.com/CesiumGS/3d-tiles) is an open specification for sharing, visualizing, fusing, and interacting with massive heterogenous 3D geospatial content across desktop, web, and mobile applications.
 
-[3D Tiles Next](https://github.com/CesiumGS/3d-tiles/tree/main/next) is a set of new capabilities for the future of 3D Tiles ([Blog post](https://cesium.com/blog/2021/11/10/introducing-3d-tiles-next/)).
-
-3D Tiles is an [OGC community standard](https://www.opengeospatial.org/standards/3DTiles).
+3D Tiles is an [OGC community standard](https://www.ogc.org/standard/3dtiles/).
 
 ## Viewers
 
@@ -31,7 +29,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 ## Tile creation (Cesium GS Inc)
 
-* Cesium Ion (proprietary)
+* Cesium Ion (SaaS)
 * [CDB to 3D Tiles](https://github.com/CesiumGS/cdb-to-3dtiles) - OGC CDB → 3D Tiles.
 * [Cesium Native](https://github.com/CesiumGS/cesium-native) - C++ library for 3D Tiles streaming, glTF processing.
 * [glTF Pipeline](https://github.com/CesiumGS/gltf-pipeline) - Javascript tools for glTF / GLB conversion and optimization.
