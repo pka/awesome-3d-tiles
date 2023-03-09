@@ -58,6 +58,10 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Cesium Terrain Builder](https://github.com/geo-data/cesium-terrain-builder) - DEM → Cesium Terrain Tiles (old format).
 * [quantized-mesh-encoder](https://github.com/kylebarron/quantized-mesh-encoder) - A fast Python Quantized Mesh encoder.
 
+## Learning material / Howtos
+
+* [Rendering the World with 3D Tiles](https://cesium.com/learn/presentations/#rendering-the-world-with-3d-tiles).
+
 ## Community
 
 * [Matrix Chat room](https://matrix.to/#/#3d-tiles:matrix.org) in [OSGeo Open Space](https://matrix.to/#/#osgeo:osgeo.org).
