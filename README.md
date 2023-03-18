@@ -63,5 +63,5 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Rendering the World with 3D Tiles](https://cesium.com/learn/presentations/#rendering-the-world-with-3d-tiles).
 
 ## Community
-
+* [Discussions](https://github.com/pka/awesome-3d-tiles/discussions)
 * [Matrix Chat room](https://matrix.to/#/#3d-tiles:matrix.org) in [OSGeo Open Space](https://matrix.to/#/#osgeo:osgeo.org).
