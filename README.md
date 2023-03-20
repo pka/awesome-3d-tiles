@@ -11,11 +11,11 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 ## Viewers
 
 * [CesiumJS](https://github.com/CesiumGS/cesium) - JavaScript library for creating 3D globes and 2D maps in a web browser.
-* [mapbox-3dtiles](https://github.com/Geodan/mapbox-3dtiles) - Mapbox GL JS custom layer for 3D Tiles.
 * [3DCityDB-Web-Map-Client](https://github.com/3dcitydb/3dcitydb-web-map) - Cesium based Viewer for CityGML und 3D Tiles.
 * [3d-tiles-renderer](https://github.com/NASA-AMMOS/3DTilesRendererJS) - Three.js based renderer for 3D Tiles.
 * [three-loader-3dtiles](https://github.com/nytimes/three-loader-3dtiles) - [Three.js](https://threejs.org/) loader module for handling OGC 3D Tiles.
 * [threedtiles](https://github.com/ebeaufay/3DTilesViewer) - 3DTiles viewer for three.js.
+* [mapbox-3dtiles](https://github.com/Geodan/mapbox-3dtiles) - Mapbox GL JS custom layer for 3D Tiles.
 * [A-Frame component](https://github.com/nytimes/aframe-loader-3dtiles-component) - [A-Frame](https://aframe.io/) component using 3D-Tiles.
 * [loaders.gl](https://loaders.gl/docs/specifications/category-3d-tiles) - Parsers and encoders for many major 3D, geospatial and tabular formats.
 * [deck.gl](https://deck.gl/docs/api-reference/geo-layers/tile-3d-layer) - WebGL-powered framework for visual exploratory data analysis of large datasets.
@@ -36,7 +36,6 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 ## Tile creation (Community)
 
-* [3D City Database](https://www.3dcitydb.org/) - Geo database to store, represent, and manage virtual 3D city models.
 * [py3dtiles](https://gitlab.com/Oslandia/py3dtiles) - LAS / XYZ → 3D Point Cloud Tiles, b3dm API.
 * [Python 3DTiles Tilers](https://github.com/VCityTeam/py3dtilers) - Python tool and library allowing to build 3D Tiles tilesets out of various geometrical formats e.g. OBJ, GeoJSON, IFC or CityGML through 3dCityDB databases.
 * [pg2b3dm](https://github.com/Geodan/pg2b3dm) - Conversion of PostGIS 3D geometries to b3dm tiles.
@@ -44,6 +43,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [3dtiles](https://github.com/fanvanzh/3dtiles) - Tools for 3D-Tiles conversion.
 * [gltf-to-3d-tiles](https://github.com/dreamergz/gltf-to-3d-tiles) - glTF to 3d Tiles Converter.
 * [vts23dtiles](https://github.com/melowntech/vts-tools) - Convert VTS tileset into 3D Tileset.
+* [3D City Database](https://www.3dcitydb.org/) - Geo database to store, represent, and manage virtual 3D city models.
 * [Cesium Point Cloud Generator](https://github.com/tum-gis/cesium-point-cloud-generator) - XYZ → 3D Point Cloud Tiles.
 
 ## glTF tools
@@ -63,5 +63,6 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Rendering the World with 3D Tiles](https://cesium.com/learn/presentations/#rendering-the-world-with-3d-tiles).
 
 ## Community
+
 * [Discussions](https://github.com/pka/awesome-3d-tiles/discussions)
 * [Matrix Chat room](https://matrix.to/#/#3d-tiles:matrix.org) in [OSGeo Open Space](https://matrix.to/#/#osgeo:osgeo.org).
