@@ -42,6 +42,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Obj2Tiles](https://github.com/OpenDroneMap/Obj2Tiles) - Converts OBJ files to OGC 3D tiles.
 * [3dtiles](https://github.com/fanvanzh/3dtiles) - Tools for 3D-Tiles conversion.
 * [gltf-to-3d-tiles](https://github.com/dreamergz/gltf-to-3d-tiles) - glTF to 3d Tiles Converter.
+* [citygml-to-3dtiles](https://github.com/njam/citygml-to-3dtiles) - Convert from CityGML to Cesium 3D Tiles.
 * [vts23dtiles](https://github.com/melowntech/vts-tools) - Convert VTS tileset into 3D Tileset.
 * [3D City Database](https://www.3dcitydb.org/) - Geo database to store, represent, and manage virtual 3D city models.
 * [Cesium Point Cloud Generator](https://github.com/tum-gis/cesium-point-cloud-generator) - XYZ → 3D Point Cloud Tiles.
