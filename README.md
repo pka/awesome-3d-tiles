@@ -59,6 +59,11 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Cesium Terrain Builder](https://github.com/geo-data/cesium-terrain-builder) - DEM → Cesium Terrain Tiles (old format).
 * [quantized-mesh-encoder](https://github.com/kylebarron/quantized-mesh-encoder) - A fast Python Quantized Mesh encoder.
 
+## Demo applications
+
+* [3D BAG](https://3dbag.nl/en/viewer)
+* [basemap.de](https://basemap.de/beta_produkte_dienste/)
+
 ## Learning material / Howtos
 
 * [Rendering the World with 3D Tiles](https://cesium.com/learn/presentations/#rendering-the-world-with-3d-tiles).
