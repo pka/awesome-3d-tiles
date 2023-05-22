@@ -32,6 +32,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * Cesium Ion (SaaS)
 * [CDB to 3D Tiles](https://github.com/CesiumGS/cdb-to-3dtiles) - OGC CDB → 3D Tiles.
 * [Cesium Native](https://github.com/CesiumGS/cesium-native) - C++ library for 3D Tiles streaming, glTF processing.
+* [3D Tiles Tools](https://github.com/CesiumGS/3d-tiles-tools) - Tools and utilities for converting, optimizing, processing and analyzing 3D Tiles data.
 * [glTF Pipeline](https://github.com/CesiumGS/gltf-pipeline) - Javascript tools for glTF / GLB conversion and optimization.
 
 ## Tile creation (Community)
@@ -62,7 +63,9 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 ## Demo applications
 
 * [3D BAG](https://3dbag.nl/en/viewer)
+* [Berlin 3D](https://berlin.virtualcitymap.de/#) | [Bremen 3D](https://bremen.virtualcitymap.de/#/) | [Helsinki 3D](https://kartta.hel.fi/3d/#/) | [Soest 3D](https://soest.virtualcitymap.de/#/)
 * [basemap.de](https://basemap.de/beta_produkte_dienste/)
+* [Google Photorealistic 3D Tiles](https://developers.google.com/maps/documentation/tile/3d-tiles)
 
 ## Learning material / Howtos
 
