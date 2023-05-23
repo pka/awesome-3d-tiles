@@ -21,6 +21,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [deck.gl](https://deck.gl/docs/api-reference/geo-layers/tile-3d-layer) - WebGL-powered framework for visual exploratory data analysis of large datasets.
 * [iTowns](https://github.com/iTowns/itowns) - Three.js based JS/WebGL framework.
 * [giro3d](https://gitlab.com/giro3d/giro3d) - Three.js based JS/WebGL framework (successor of iTown).
+* [UD-Viz](https://github.com/VCityTeam/UD-Viz) - Urban Data Vizualisation. Framework for creating web applications for visualizing and interacting with geospatial 3D urban data (based on iTowns/Tree.js).
 
 ## Game engine and 3D modeling tool integrations (Open source)
 
