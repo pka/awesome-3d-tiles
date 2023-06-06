@@ -58,7 +58,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 [Quantized Mesh](https://github.com/CesiumGS/quantized-mesh) is a format to encode terrain meshes for efficient client-side terrain rendering. Such files are supported in Cesium and deck.gl.
 
-* [Cesium Terrain Builder](https://github.com/geo-data/cesium-terrain-builder) - DEM → Cesium Terrain Tiles (old format).
+* [Cesium Terrain Builder](https://github.com/ahuarte47/cesium-terrain-builder/tree/master-quantized-mesh) ([Docker](https://github.com/tum-gis/cesium-terrain-builder-docker)) - Cesium Terrain Tile builder with quantized mesh support.
 * [quantized-mesh-encoder](https://github.com/kylebarron/quantized-mesh-encoder) - A fast Python Quantized Mesh encoder.
 
 ## Demo applications
