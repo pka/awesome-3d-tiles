@@ -22,6 +22,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [iTowns](https://github.com/iTowns/itowns) - Three.js based JS/WebGL framework.
 * [giro3d](https://gitlab.com/giro3d/giro3d) - Three.js based JS/WebGL framework (successor of iTown).
 * [UD-Viz](https://github.com/VCityTeam/UD-Viz) - Urban Data Vizualisation. Framework for creating web applications for visualizing and interacting with geospatial 3D urban data (based on iTowns/Tree.js).
+* [vsgCs](https://github.com/timoore/vsgCs) - a library for using 3D Tiles and other geospatial content within a Vulkan Scene Graph (VSG) application
 
 ## Game engine and 3D modeling tool integrations (Open source)
 
