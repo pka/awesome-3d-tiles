@@ -48,6 +48,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [vts23dtiles](https://github.com/melowntech/vts-tools) - Convert VTS tileset into 3D Tileset.
 * [3D City Database](https://www.3dcitydb.org/) - Geo database to store, represent, and manage virtual 3D city models.
 * [Cesium Point Cloud Generator](https://github.com/tum-gis/cesium-point-cloud-generator) - XYZ → 3D Point Cloud Tiles.
+* [loaders.gl tile-converter](https://loaders.gl/docs/modules/tile-converter/cli-reference/tile-converter) - Convert I3S to 3D Tiles.
 
 ## glTF tools
 
