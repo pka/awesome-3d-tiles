@@ -11,6 +11,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 ## Viewers
 
 * [CesiumJS](https://github.com/CesiumGS/cesium) - JavaScript library for creating 3D globes and 2D maps in a web browser.
+* [QGIS](https://github.com/qgis/QGIS) - Multi-platform desktop geographical information system (since QGIS 3.34).
 * [3DCityDB-Web-Map-Client](https://github.com/3dcitydb/3dcitydb-web-map) - Cesium based Viewer for CityGML und 3D Tiles.
 * [loaders.gl](https://loaders.gl/docs/specifications/category-3d-tiles) - Parsers and encoders for many major 3D, geospatial and tabular formats.
 * [deck.gl](https://deck.gl/docs/api-reference/geo-layers/tile-3d-layer) - WebGL-powered framework for visual exploratory data analysis of large datasets.
