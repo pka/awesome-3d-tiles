@@ -24,9 +24,10 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [UD-Viz](https://github.com/VCityTeam/UD-Viz) - Urban Data Vizualisation. Framework for creating web applications for visualizing and interacting with geospatial 3D urban data (based on iTowns/Tree.js).
 * [vsgCs](https://github.com/timoore/vsgCs) - a library for using 3D Tiles and other geospatial content within a Vulkan Scene Graph (VSG) application
 
-## Game engine and 3D modeling tool integrations (Open source)
+## Game engine, desktop GIS and 3D modeling tool integrations (Open source)
 
 * [Open 3D Engine (O3DE)](https://www.o3de.org/) - [blog post](https://cesium.com/blog/2022/02/16/announcing-cesium-for-o3de/)
+* [QGIS](https://www.qgis.org/) - Multi-platform desktop geographical information system (since version 3.34).
 * [blender-3d-tiler](https://gitee.com/cesium_processing/blender-3d-tiler) - [Blender](https://www.blender.org/) tool for tiling 3d models.
 
 ## Tile creation (Cesium GS Inc)
@@ -67,7 +68,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 * [3D BAG](https://3dbag.nl/en/viewer)
 * [Berlin 3D](https://berlin.virtualcitymap.de/#) | [Bremen 3D](https://bremen.virtualcitymap.de/#/) | [Helsinki 3D](https://kartta.hel.fi/3d/#/) | [Soest 3D](https://soest.virtualcitymap.de/#/)
-* [basemap.de](https://basemap.de/beta_produkte_dienste/)
+* [basemap.de](https://basemap.de/beta/)
 * [Google Photorealistic 3D Tiles](https://developers.google.com/maps/documentation/tile/3d-tiles)
 
 ## Learning material / Howtos
