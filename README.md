@@ -72,6 +72,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [3D BAG](https://3dbag.nl/en/viewer)
 * [Berlin 3D](https://berlin.virtualcitymap.de/#) | [Bremen 3D](https://bremen.virtualcitymap.de/#/) | [Helsinki 3D](https://kartta.hel.fi/3d/#/) | [Soest 3D](https://soest.virtualcitymap.de/#/)
 * [basemap.de](https://basemap.de/beta/)
+* [UnrealEngineDigitalTwinLowerSaxony](https://github.com/JulianMuellerLgln/UnrealEngineDigitalTwinLowerSaxony) - [Presentation (german)](https://pretalx.com/fossgis2025/talk/8P79JV/)
 * [Google Photorealistic 3D Tiles](https://developers.google.com/maps/documentation/tile/3d-tiles)
 
 ## Learning material / Howtos
