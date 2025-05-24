@@ -26,8 +26,9 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 ## Game engine, desktop GIS and 3D modeling tool integrations (Open source)
 
-* [Open 3D Engine (O3DE)](https://www.o3de.org/) - [blog post](https://cesium.com/blog/2022/02/16/announcing-cesium-for-o3de/)
 * [QGIS](https://www.qgis.org/) - Multi-platform desktop geographical information system (since version 3.34).
+* [3D Tiles for Godot](https://github.com/Battle-Road-Labs/3D-Tiles-For-Godot) - Godot 4 extension that integrates Cesium 3D Tiles capabilities into Godot Engine
+* [Open 3D Engine (O3DE)](https://github.com/CesiumGS/cesium-o3de) - Cesium for O3DE
 * [blender-3d-tiler](https://gitee.com/cesium_processing/blender-3d-tiler) - [Blender](https://www.blender.org/) tool for tiling 3d models.
 
 ## Tile creation (Cesium GS Inc)
@@ -54,6 +55,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Cesium Point Cloud Generator](https://github.com/tum-gis/cesium-point-cloud-generator) - XYZ → 3D Point Cloud Tiles.
 * [loaders.gl tile-converter](https://loaders.gl/docs/modules/tile-converter/cli-reference/tile-converter) - Convert I3S to 3D Tiles.
 * [gltf-to-3d-tiles](https://github.com/xuzhusheng/gltf-to-3d-tiles) - Convert glTF model to Glb, b3dm or 3d tiles format.
+* [tyler](https://github.com/3DGI/tyler) - Tiling 3D city models encoded in CityJSON
 
 ## glTF tools
 
