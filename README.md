@@ -81,6 +81,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 ## Learning material / Howtos
 
 * [Rendering the World with 3D Tiles](https://cesium.com/learn/presentations/#rendering-the-world-with-3d-tiles).
+* [mago3DTiler workshop](https://github.com/Gaia3D/mago3d-doc/blob/main/foss4g/Table_Of_Contents_En.md) - mago3DTiler technical workshop materials from FOSS4G-Asia (2024)
 
 ## Community
 
