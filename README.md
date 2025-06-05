@@ -48,18 +48,18 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [PLATEAU GIS Converter](https://github.com/MIERUNE/plateau-gis-converter) - Convert 3D city models (CityGML) into various geospatial formats, including 3D Tiles, MVT, and GeoPackage.
 * [Obj2Tiles](https://github.com/OpenDroneMap/Obj2Tiles) - Converts OBJ files to OGC 3D tiles.
 * [3dtiles](https://github.com/fanvanzh/3dtiles) - Tools for 3D-Tiles conversion.
-* [gltf-to-3d-tiles](https://github.com/dreamergz/gltf-to-3d-tiles) - glTF to 3d Tiles Converter.
+* [gltf-to-3d-tiles](https://github.com/xuzhusheng/gltf-to-3d-tiles) - Convert glTF model to Glb, b3dm or 3d tiles format.
 * [citygml-to-3dtiles](https://github.com/njam/citygml-to-3dtiles) - Convert from CityGML to Cesium 3D Tiles.
 * [vts23dtiles](https://github.com/melowntech/vts-tools) - Convert VTS tileset into 3D Tileset.
 * [3D City Database](https://www.3dcitydb.org/) - Geo database to store, represent, and manage virtual 3D city models.
 * [Cesium Point Cloud Generator](https://github.com/tum-gis/cesium-point-cloud-generator) - XYZ → 3D Point Cloud Tiles.
 * [loaders.gl tile-converter](https://loaders.gl/docs/modules/tile-converter/cli-reference/tile-converter) - Convert I3S to 3D Tiles.
-* [gltf-to-3d-tiles](https://github.com/xuzhusheng/gltf-to-3d-tiles) - Convert glTF model to Glb, b3dm or 3d tiles format.
 * [tyler](https://github.com/3DGI/tyler) - Tiling 3D city models encoded in CityJSON
 
 ## glTF tools
 
 * [glTF-Transform](https://gltf-transform.donmccurdy.com/cli.html) - glTF-Transform supports reading, editing, and writing 3D models in glTF 2.0 format.
+* [Open Asset Import Library (assimp)](https://github.com/assimp/assimp) - Library and converter for 40+ 3D-file-formats into glTF and more ([file formats](https://github.com/assimp/assimp/blob/master/doc/Fileformats.md)).
 * [Blender exporter](https://docs.blender.org/manual/en/latest/addons/import_export/scene_gltf2.html#extensions) - Blender glTF 2.0 Exporter.
 
 ## Terrain
@@ -68,6 +68,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 * [Cesium Terrain Builder](https://github.com/ahuarte47/cesium-terrain-builder/tree/master-quantized-mesh) ([Docker](https://github.com/tum-gis/cesium-terrain-builder-docker)) - Cesium Terrain Tile builder with quantized mesh support.
 * [quantized-mesh-encoder](https://github.com/kylebarron/quantized-mesh-encoder) - A fast Python Quantized Mesh encoder.
+* [mago 3DTerrainer](https://github.com/Gaia3D/mago-3d-terrainer) - Convert GeoTIFF files into quantized-mesh data.
 
 ## Demo applications
 
@@ -84,4 +85,3 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 ## Community
 
 * [Discussions](https://github.com/pka/awesome-3d-tiles/discussions)
-* [Matrix Chat room](https://matrix.to/#/#3d-tiles:matrix.org) in [OSGeo Open Space](https://matrix.to/#/#osgeo:osgeo.org).
