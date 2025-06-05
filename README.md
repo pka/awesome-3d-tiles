@@ -44,10 +44,10 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [py3dtiles](https://gitlab.com/py3dtiles/py3dtiles) - Read and write pnts and b3dm via API or CLI.
 * [Python 3DTiles Tilers](https://github.com/VCityTeam/py3dtilers) - Python tool and library allowing to build 3D Tiles tilesets out of various geometrical formats e.g. OBJ, GeoJSON, IFC or CityGML through 3dCityDB databases.
 * [pg2b3dm](https://github.com/Geodan/pg2b3dm) - Conversion of PostGIS 3D geometries to b3dm tiles.
-* [mago 3DTiler](https://github.com/Gaia3D/mago-3d-tiler) - Elevate your 3D data into the realm of OGC 3D Tiles.
+* [mago 3DTiler](https://github.com/Gaia3D/mago-3d-tiler) - mago 3DTiler converts various spatial data into OGC 3D Tiles.
 * [PLATEAU GIS Converter](https://github.com/MIERUNE/plateau-gis-converter) - Convert 3D city models (CityGML) into various geospatial formats, including 3D Tiles, MVT, and GeoPackage.
 * [Obj2Tiles](https://github.com/OpenDroneMap/Obj2Tiles) - Converts OBJ files to OGC 3D tiles.
-* [3dtiles](https://github.com/fanvanzh/3dtiles) - Tools for 3D-Tiles conversion.
+* [3dtiles](https://github.com/fanvanzh/3dtiles) - Converts Osgb(OpenSceneGraph Binary), Esri Shapefile and Fbx files into 3D Tiles.
 * [gltf-to-3d-tiles](https://github.com/xuzhusheng/gltf-to-3d-tiles) - Convert glTF model to Glb, b3dm or 3d tiles format.
 * [citygml-to-3dtiles](https://github.com/njam/citygml-to-3dtiles) - Convert from CityGML to Cesium 3D Tiles.
 * [vts23dtiles](https://github.com/melowntech/vts-tools) - Convert VTS tileset into 3D Tileset.
@@ -66,9 +66,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 [Quantized Mesh](https://github.com/CesiumGS/quantized-mesh) is a format to encode terrain meshes for efficient client-side terrain rendering. Such files are supported in Cesium and deck.gl.
 
-* [Cesium Terrain Builder](https://github.com/ahuarte47/cesium-terrain-builder/tree/master-quantized-mesh) ([Docker](https://github.com/tum-gis/cesium-terrain-builder-docker)) - Cesium Terrain Tile builder with quantized mesh support.
-* [quantized-mesh-encoder](https://github.com/kylebarron/quantized-mesh-encoder) - A fast Python Quantized Mesh encoder.
-* [mago 3DTerrainer](https://github.com/Gaia3D/mago-3d-terrainer) - Convert GeoTIFF files into quantized-mesh data.
+See [awesome-quantized-mesh-tiles](https://github.com/bertt/awesome-quantized-mesh-tiles#readme) for more resources.
 
 ## Demo applications
 
