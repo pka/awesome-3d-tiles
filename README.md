@@ -24,11 +24,11 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [UD-Viz](https://github.com/VCityTeam/UD-Viz) - Urban Data Vizualisation. Framework for creating web applications for visualizing and interacting with geospatial 3D urban data (based on iTowns/Tree.js).
 * [vsgCs](https://github.com/timoore/vsgCs) - a library for using 3D Tiles and other geospatial content within a Vulkan Scene Graph (VSG) application
 
-## Game engine, desktop GIS and 3D modeling tool integrations (Open source)
+## Desktop GIS, Game engines and 3D modeling tool integrations (Open source)
 
 * [QGIS](https://www.qgis.org/) - Multi-platform desktop geographical information system (since version 3.34).
-* [3D Tiles for Godot](https://github.com/Battle-Road-Labs/3D-Tiles-For-Godot) - Godot 4 extension that integrates Cesium 3D Tiles capabilities into Godot Engine
-* [Open 3D Engine (O3DE)](https://github.com/CesiumGS/cesium-o3de) - Cesium for O3DE
+* [3D Tiles for Godot](https://github.com/Battle-Road-Labs/3D-Tiles-For-Godot) - Godot 4 extension that integrates Cesium 3D Tiles capabilities into Godot Engine (currently Windows-only).
+* [Open 3D Engine (O3DE)](https://github.com/CesiumGS/cesium-o3de) - Cesium for O3DE.
 * [blender-3d-tiler](https://gitee.com/cesium_processing/blender-3d-tiler) - [Blender](https://www.blender.org/) tool for tiling 3d models.
 
 ## Tile creation (Cesium GS Inc)
@@ -41,7 +41,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 ## Tile creation (Community)
 
-* [py3dtiles](https://gitlab.com/py3dtiles/py3dtiles) - Read and write pnts and b3dm via API or CLI.
+* [py3dtiles](https://py3dtiles.org/) - Read and write pnts and b3dm via API or CLI.
 * [Python 3DTiles Tilers](https://github.com/VCityTeam/py3dtilers) - Python tool and library allowing to build 3D Tiles tilesets out of various geometrical formats e.g. OBJ, GeoJSON, IFC or CityGML through 3dCityDB databases.
 * [pg2b3dm](https://github.com/Geodan/pg2b3dm) - Conversion of PostGIS 3D geometries to b3dm tiles.
 * [mago 3DTiler](https://github.com/Gaia3D/mago-3d-tiler) - mago 3DTiler converts various spatial data into OGC 3D Tiles.
