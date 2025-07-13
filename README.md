@@ -45,7 +45,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [py3dtiles](https://py3dtiles.org/) - Read and write pnts and b3dm via API or CLI.
 * [Python 3DTiles Tilers](https://github.com/VCityTeam/py3dtilers) - Python tool and library allowing to build 3D Tiles tilesets out of various geometrical formats e.g. OBJ, GeoJSON, IFC or CityGML through 3dCityDB databases.
 * [pg2b3dm](https://github.com/Geodan/pg2b3dm) - Conversion of PostGIS 3D geometries to b3dm tiles.
-* [mago 3DTiler](https://github.com/Gaia3D/mago-3d-tiler) - mago 3DTiler converts various spatial data into OGC 3D Tiles.
+* [mago 3DTiler](https://github.com/Gaia3D/mago-3d-tiler) - mago 3DTiler converts various spatial data into OGC 3D Tiles ([Manual](https://github.com/Gaia3D/mago-3d-tiler/blob/main/MANUAL.md)).
 * [PLATEAU GIS Converter](https://github.com/MIERUNE/plateau-gis-converter) - Convert 3D city models (CityGML) into various geospatial formats, including 3D Tiles, MVT, and GeoPackage.
 * [Obj2Tiles](https://github.com/OpenDroneMap/Obj2Tiles) - Converts OBJ files to OGC 3D tiles.
 * [3dtiles](https://github.com/fanvanzh/3dtiles) - Converts Osgb(OpenSceneGraph Binary), Esri Shapefile and Fbx files into 3D Tiles.
