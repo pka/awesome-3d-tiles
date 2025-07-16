@@ -19,8 +19,8 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [threedtiles](https://github.com/ebeaufay/3DTilesViewer) - 3DTiles viewer for three.js.
 * [ThreePipe](https://threepipe.org/) - 3D viewer framework built on top of three.js.
 * [A-Frame component](https://github.com/nytimes/aframe-loader-3dtiles-component) - [A-Frame](https://aframe.io/) component using 3D-Tiles.
-* [iTowns](https://github.com/iTowns/itowns) - Three.js based JS/WebGL framework.
-* [giro3d](https://gitlab.com/giro3d/giro3d) - Three.js based JS/WebGL framework (successor of iTown).
+* [iTowns](https://www.itowns-project.org/) - Three.js based JS/WebGL framework for visualizing 3D geospatial data.
+* [giro3d](https://giro3d.org/) - Three.js based JS/WebGL framework and configurable web application for 3D visualization.
 * [UD-Viz](https://github.com/VCityTeam/UD-Viz) - Urban Data Vizualisation. Framework for creating web applications for visualizing and interacting with geospatial 3D urban data (based on iTowns/Tree.js).
 * [vsgCs](https://github.com/timoore/vsgCs) - a library for using 3D Tiles and other geospatial content within a Vulkan Scene Graph (VSG) application
 * [mapbox-3dtiles](https://github.com/Geodan/mapbox-3dtiles) - Mapbox GL JS custom layer for 3D Tiles.
