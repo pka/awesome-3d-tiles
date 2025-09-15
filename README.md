@@ -80,6 +80,7 @@ See [awesome-quantized-mesh-tiles](https://github.com/bertt/awesome-quantized-me
 ## Learning material / Howtos
 
 * [Rendering the World with 3D Tiles](https://cesium.com/learn/presentations/#rendering-the-world-with-3d-tiles).
+* [Creating 3D Tiles](https://blog.sourcepole.ch/assets/2025/creating-3d-tiles.pdf) (Slides from presentation FOSS4G Europe 2025).
 * [mago3DTiler workshop](https://github.com/Gaia3D/mago3d-doc/blob/main/foss4g/Table_Of_Contents_En.md) - mago3DTiler technical workshop materials from FOSS4G-Asia (2024)
 
 ## Community
