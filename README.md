@@ -56,6 +56,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Cesium Point Cloud Generator](https://github.com/tum-gis/cesium-point-cloud-generator) - XYZ → 3D Point Cloud Tiles.
 * [loaders.gl tile-converter](https://loaders.gl/docs/modules/tile-converter/cli-reference/tile-converter) - Convert I3S to 3D Tiles.
 * [tyler](https://github.com/3DGI/tyler) - Tiling 3D city models encoded in CityJSON
+* [OSM Data 3D Tiles](https://github.com/TANK2003/osm-data-3d-tiles) - Gemerate 3D Tiles from OpenStreetMap data.
 
 ## glTF tools
 
