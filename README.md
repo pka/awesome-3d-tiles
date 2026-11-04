@@ -31,6 +31,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [3D Tiles for Godot](https://github.com/Battle-Road-Labs/3D-Tiles-For-Godot) - Godot 4 extension that integrates Cesium 3D Tiles capabilities into Godot Engine (currently Windows-only).
 * [Open 3D Engine (O3DE)](https://github.com/CesiumGS/cesium-o3de) - Cesium for O3DE.
 * [blender-3d-tiler](https://gitee.com/cesium_processing/blender-3d-tiler) - [Blender](https://www.blender.org/) tool for tiling 3d models.
+* [blender_ogc3dtiles](https://github.com/Iconem/blender_ogc3dtiles) - [Blender](https://www.blender.org/) add-on streaming 3D Tiles of meshes, point clouds and Gaussian splats into the viewport, through Cesium Native.
 
 ## Tile creation (Cesium GS Inc)
 
