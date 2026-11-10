@@ -63,6 +63,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [glTF-Transform](https://gltf-transform.donmccurdy.com/cli.html) - glTF-Transform supports reading, editing, and writing 3D models in glTF 2.0 format.
 * [Open Asset Import Library (assimp)](https://github.com/assimp/assimp) - Library and converter for 40+ 3D-file-formats into glTF and more ([file formats](https://github.com/assimp/assimp/blob/master/doc/Fileformats.md)).
 * [Blender exporter](https://docs.blender.org/manual/en/latest/addons/import_export/scene_gltf2.html#extensions) - Blender glTF 2.0 Exporter.
+* [meshcity](https://github.com/Longado/meshcity) - Cuts an area out of a 3D Tiles or I3S stream into one GLB, one object per building with its attributes.
 
 ## Terrain
 
